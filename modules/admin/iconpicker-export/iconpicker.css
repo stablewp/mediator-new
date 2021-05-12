@@ -1,0 +1,7 @@
+
+@font-face {
+    font-family:"iconpicker";
+    src:url("iconpicker.woff2") format("woff2"),url("iconpicker.woff") format("woff"),url("iconpicker.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+        

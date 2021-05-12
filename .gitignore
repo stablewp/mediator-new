@@ -1,0 +1,15 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+*.txt
+
+.sass-cache/
+node_modules/
+$RECYCLE.BIN/
+
+.DS_Store
+
+# gulpfile.js
+# package.json
+# package-lock.json
+# src/
